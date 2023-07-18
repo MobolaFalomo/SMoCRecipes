@@ -2,15 +2,15 @@
  Welcome to SMoCRecipes Platform! This platform is designed to provide a seamless and interactive experience for sharing and discovering delicious recipes. Whether you're a seasoned chef or a beginner in the kitchen, SMoCRecipes is here to inspire you with a wide variety of culinary creations.
 
 # Table of Contents
-. Installation
-. Usage
-. Features
-. Contributing
-. API Documentation
-. License
-. Acknowledgements
-. Contact Information
-. Troubleshooting
+*  Installation
+*  Usage
+*  Features
+*  Contributing
+*  API Documentation
+*  License
+*  Acknowledgements
+*  Contact Information
+*  Troubleshooting
 # Installation
 To set up the SMoCRecipes Platform on your local machine, follow these steps:
 
@@ -24,8 +24,8 @@ cd SMoCRecipes
 npm install
 
 ## Set up the database:
-. Create a PostgreSQL database with the name smoc_recipes.
-. Update the database connection configuration in the .env file.
+*   Create a PostgreSQL database with the name smoc_recipes.
+*   Update the database connection configuration in the .env file.
 ## Run database migrations:
 npx sequelize-cli db:migrate
 ## Start the server:
@@ -54,15 +54,15 @@ To use the SMoCRecipes Platform, follow these steps:
 Enjoy the journey of discovering, creating, and sharing delicious recipes with the SMoCRecipes Platform!
 
 # Features
-. User authentication and authorization
-. Recipe creation, modification, and deletion
-. Recipe search and filtering
-. Recipe liking, commenting, and sharing
-. User following and followers system
-. Group creation and participation
-. Saved recipes functionality
-. Notification system for important updates
-. Responsive and intuitive user interface
+*   User authentication and authorization
+*   Recipe creation, modification, and deletion
+*   Recipe search and filtering
+*   Recipe liking, commenting, and sharing
+*   User following and followers system
+*   Group creation and participation
+*   Saved recipes functionality
+*   Notification system for important updates
+*   Responsive and intuitive user interface
 # Contributing
 We appreciate and welcome contributions from the community. To contribute to the SMoCRecipes Platform, please follow these guidelines:
 
@@ -95,8 +95,8 @@ We would like to express our gratitude to the following individuals and resource
 # Contact Information
 For any inquiries, suggestions, or support, please feel free to reach out to us:
 
-. Email: your-email@example.com
-. Website: www.smocrecipes.com
+*       Email: your-email@example.com
+*       Website: www.smocrecipes.com
 We are excited to hear from you and assist you in any way we can!
 
 # Troubleshooting
