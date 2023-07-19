@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"todos"
+			],
+			[
+				"st",
+				"status_code"
+			],
+			[
+				"pho",
+				"photo_data"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"M",
+				"MEDIA_ROOT"
+			],
+			[
+				"prdo",
+				"product"
+			],
+			[
+				"ase",
+				"assertIsNone"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"pr",
+				"product_id"
+			],
+			[
+				"Produ",
+				"Product"
+			],
+			[
+				"ian",
+				"initial_product_count"
+			],
+			[
+				"A",
+				"APITestCase"
+			],
+			[
+				"por",
+				"product_params"
+			],
+			[
+				"is",
+				"is_on_sale"
+			],
+			[
+				"p",
+				"product_params"
+			],
+			[
+				"Ap",
+				"APITestCase"
+			],
+			[
+				"sal",
+				"sale_start"
+			],
+			[
+				"ma",
+				"max_value"
+			],
+			[
+				"min",
+				"min_value"
+			],
+			[
+				"Ca",
+				"ShoppingCartItemSerializer"
+			],
+			[
+				"S",
+				"ShoppingCartItem"
+			],
+			[
+				"Sho",
+				"ShoppingCartItem"
+			],
+			[
+				"de",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 250,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ayo/Desktop/SMoCRecipes",
+		"/home/ayo/Desktop/SMoCRecipes/App_Project"
+	],
+	"file_history":
+	[
+		"/home/ayo/Desktop/learn_django/django_api/demo/demo/settings.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/api_views.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/serializers.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/tests.py",
+		"/home/ayo/Desktop/learn_django/django_api/demo/requirements.txt",
+		"/home/ayo/Desktop/learn_django/django_api/demo/store/tes.sh",
+		"/home/ayo/.config/sublime-text/Packages/WakaTime/WakaTime.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/User/WakaTime.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/User/AutoPep8.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/home/ayo/.config/sublime-text/Packages/SublimeLinter-gcc/README.md",
+		"/home/ayo/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ayo/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/ayo/Desktop/SMoCRecipes"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "__init__.py",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 250,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.Terminus":
+	{
+		"height": 224.0
+	},
+	"output.autopep8":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/workspaces/django.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
