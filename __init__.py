@@ -23,8 +23,10 @@ db = SQLAlchemy(app)
 migrate = Migrate(app, db)
 login_manager = LoginManager(app)
 login_manager.login_view = 'login'
-from App_Project import views, models  # noqa: E402
+from .App_Project import views, models
 
+import sys
+sys.path.append('~/SMoCRecipes/App_Project')
 
 @login_manager.user_loader
 def load_user(id):
