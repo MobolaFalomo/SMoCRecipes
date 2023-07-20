@@ -30,6 +30,7 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
 - Replace the previous run.py with the new run.py
 
 - export FLASK_APP
@@ -70,14 +71,14 @@ sqlite3 database.db
 - select users from table
 
 ```sqlite
-select * from users;
+select * from user;
 ```
 
 If good you will see the users in the table and the datas
 
 ### Next is creating your HTML pages and routes
 
-since you have all your already set up in the views.py you can start creating your HTML pages
+since you have all your routes already set up in the views.py you can start creating your HTML pages
 ignore the auth.py you don't need that anymore.
 
 Create your HTML pages in the templates folder
